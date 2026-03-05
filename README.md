@@ -91,3 +91,25 @@ This project aims to answer the following questions:
 
 - GitHub
 
+
+## SQL Queries
+
+This section will contain SQL queries used to analyse the dataset.
+
+Examples of queries include:
+
+- Average price by car brand
+- Average price by fuel type
+- Average price by transmission
+- Price vs mileage analysis
+- Price vs vehicle age
+
+## Key Findings
+
+This section will summarise the insights discovered from the analysis.
+
+Example insights may include:
+
+- Cars with lower mileage tend to have higher prices.
+- Automatic cars are generally more expensive than manual cars.
+- Certain brands maintain higher resale values.
