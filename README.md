@@ -1,8 +1,7 @@
 # uk-car-price-analysis-
 
 ## project overview
-
-Data analysis project invesThis project investigates what factors influence used car prices in the UK. Using real-world vehicle listing data, the analysis explores how different variables such as mileage, fuel type, transmission, engine size, and vehicle age affect car prices.
+This project investigates what factors influence used car prices in the UK. Using real-world vehicle listing data, the analysis explores how different variables such as mileage, fuel type, transmission, engine size, and vehicle age affect car prices.
 
 The goal is to identify patterns in the UK used car market and understand which characteristics have the greatest impact on price.
 
@@ -92,4 +91,3 @@ This project aims to answer the following questions:
 
 - GitHub
 
-tigating what factors influence the car market most.
